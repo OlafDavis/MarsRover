@@ -6,7 +6,7 @@ namespace ewfwef
     {
         static void Main(string[] args)
         {
-            // Main
+            
         }
     }
 }
